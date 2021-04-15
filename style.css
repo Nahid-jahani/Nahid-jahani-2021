@@ -592,7 +592,9 @@ footer span a:hover{
         padding-left: 0rem;
     }
     .skills .skills-content .column{
-        float: right;
-        width: 10rem;
+        
+        width: 40rem;
+       
     }
+   
 }
