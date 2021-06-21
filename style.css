@@ -377,8 +377,11 @@ section .title::after{
 
 .item {
     display: inline-block;
+    margin: 4px;
 }
-
+.item img{
+    width: 5rem;
+}
 .caption {
     color: rgb(10, 10, 10);
     font-size: large;
